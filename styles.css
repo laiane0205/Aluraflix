@@ -7,19 +7,4 @@ body{
 
 
 
-.chamada-texto{
-    margin-right: 100px;
-}
-
-
-img{
-    height: 200px;
-}
-
-
-.categoria-vídeos{
-display: flex;
-overflow-x:auto;
-gap: 20px;
-}
 
