@@ -1,10 +1,50 @@
+body {
+    color: rgb(175, 43, 124);
+    background: black;
+    margin: 0px;
+    font-family: "Teko", sans-serif;
+    margin-bottom: 100px;
 
-body{
-    background-color: rgb(70, 4, 50) black;
-    color: rgb(223, 160, 223) white
 }
 
+header {
+    border-bottom: solid 2px rgb(187, 52, 180)80)80)80)80)80)80)80);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(17, 100, 0);
+}
 
+.chamada {
+    background: rgb(255, 255, 255);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
 
+.chamada-texto {
+    margin-right: 5%;
+}
 
+h1 {
+    font-size: 40px;
+}
 
+p {
+    font-size: 20px;
+
+}
+
+.categoria-videos img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+.categoria-videos img:hover {
+    opacity: 1.0;
+    border: 3px solid rgb(172, 35, 131);
+}
+
+.categoria h2 {
+    color: rgb(184, 55, 141)8)8)8);
+}
